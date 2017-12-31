@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-stage-3": "^6.24.1",
+    "joqt": "^0.3.0",
+    "webpack": "^3.10.0"
+  },
+  "private": true,
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch"
+  }
+}
